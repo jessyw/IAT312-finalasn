@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\CameraBController.cs">
+    <Files>
+      <File FileName="Assets\Script\ScientistACopyFollow.cs" Line="26" Column="3" />
+      <File FileName="Assets\Script\Stage1Camera.cs" Line="48" Column="52" />
+      <File FileName="Assets\Script\SecurityCameraControl.cs" Line="9" Column="26" />
+      <File FileName="Assets\Script\PlayerController.cs" Line="12" Column="41" />
+      <File FileName="Assets\Script\CameraBController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\user\Downloads\IAT312_final\Assets\Script\PlayerController.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
